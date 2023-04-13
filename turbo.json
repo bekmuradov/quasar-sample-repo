@@ -43,7 +43,7 @@
         "VUE_APP_INTERCOM_ID",
         "VUE_APP_PRO_COUPON_ID"
       ],
-      "outputs": ["dist/**", ".next/**", "!.next/cache/**"]
+      "outputs": ["dist/spa"]
     },
     "lint": {},
     "dev": {
